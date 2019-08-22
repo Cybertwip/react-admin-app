@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main component rendering Render to match snapshot 1`] = `
+<div>
+  <nav
+    className="navbar navbar-expand-md navbar-light bg-light"
+  >
+    <a
+      className="navbar-brand"
+      href="/"
+    >
+      Web Admin Panel
+    </a>
+    <button
+      className="navbar-toggler"
+      onClick={[Function]}
+      type="button"
+    >
+      <span
+        className="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      className="collapse navbar-collapse"
+      style={Object {}}
+    >
+      <ul
+        className="ml-auto navbar-nav"
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link"
+            href="/crud"
+            onClick={[Function]}
+          >
+            CRUD
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link"
+            href="/resources"
+            onClick={[Function]}
+          >
+            Resources
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link"
+            href="https://github.com/VictorJL/react-web-admin-app"
+            onClick={[Function]}
+            target="_blank"
+          >
+            GitHub
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+`;

@@ -1,0 +1,1 @@
+export const IS_PRODUCTION =  false; // TODO must add 'deployed on heroku' validation here
